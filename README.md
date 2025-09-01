@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Le Hoang (Kenny)
 
-<!--
-**KennyLe298/KennyLe298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a **Computer Engineering Undergraduate** passionate about **VLSI Design**, with a focus on **Physical Design** for chip development.  
+💡 I am building my knowledge in **chip implementation flows**, from RTL to GDSII.  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming Languages**: C++, TCL
+- **Areas of Interest**: VLSI, Physical Design, EDA tools, Digital IC Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+- Exploring **Physical Design methodologies** and **Linux Tools**
+- Strengthening knowledge in **timing analysis, clock tree synthesis, and placement & routing**
+
+## 📫 Contact
+- Email: **hoang.kennyle@gmail.com**
+- LinkedIn: **www.linkedin.com/in/kennyle2908**
+
+## 🎶 Outside of Tech
+- I enjoy listening to and exploring new musics.
+
