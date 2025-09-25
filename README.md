@@ -4,7 +4,7 @@
 💡 I am building my knowledge in **chip implementation flows**, from RTL to GDSII.  
 
 ## 🔧 Skills
-- **Programming Languages**: C++, TCL, Verilog
+- **Programming Languages**: C/C++, TCL, Verilog
 - **Areas of Interest**: VLSI, Physical Design, EDA tools, Digital IC Design
 
 ## 📚 Current Focus
