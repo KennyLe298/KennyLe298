@@ -12,10 +12,11 @@
 - Exploring **Physical Design**
 - SRAM, RISCV Core, System on Chip, Low power designs
 - Strengthening knowledge in timing analysis, clock tree synthesis, and placement & routing
-- 
+- Skills for PD tools
+  
 ## Experience
 - Internship at HanSingTek - Physical Design role
-- 
+
 ## 📫 Contact
 - Email: hoang.kennyle@gmail.com
 - School email: hoang.chule2005@hcmut.edu.vn
