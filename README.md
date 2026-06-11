@@ -11,8 +11,8 @@
 ## 📚 Current Focus
 - Exploring **Physical Design**
 - SRAM, RISCV Core, System on Chip, Low power designs
-- Strengthening knowledge in timing analysis, clock tree synthesis, and placement & routing
-- Skills for PD tools
+- Strengthening knowledge in PnR
+- Scripting skills 
   
 ## Experience
 - Internship at HanSingTek - Physical Design role
