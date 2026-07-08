@@ -3,11 +3,18 @@
  **Computer Engineering Undergraduate** passionate about **VLSI Design**, with a focus on **Physical Design** for chip development. Currently building my knowledge from RTL to GDSII, especially interested in low power designs.
 
 ## Tools and Environment
-- Tools: Xcelium, Genus, Conformal, **Innovus Cadence**, **IC Compiler II** 
-- Environment: Linux, Windows
+- Tools:
++ Logic simulator: Xcelium
++ Synthesis: Genus
++ LEC: Conformal
++ PnR: **Innovus Cadence**, **IC Compiler II**
++ PV (DRC, LVS, ERC, Antenna/DFM): Calibre
++ PEX: StarRC
++ STA: PrimeTime - Tweaker
++ Power Analysis: RedHawk 
 
 ## Current Focus
-- Exploring **Physical Design**
+- Learning **Physical Design**
 - SRAM, RISCV Core, System on Chip, Low power designs
 - Strengthening knowledge in PnR
 - Scripting TCL 
