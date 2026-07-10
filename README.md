@@ -6,7 +6,7 @@
 + Logic simulator: Xcelium
 + Synthesis: Genus
 + LEC: Conformal
-+ PnR: **Innovus Cadence**, **IC Compiler II**
++ PnR: **Innovus Cadence**, **IC Compiler II**, OpenLane
 + PV (DRC, LVS, ERC, Antenna/DFM): Calibre
 + PEX: StarRC
 + STA: PrimeTime - Tweaker
